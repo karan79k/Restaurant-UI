@@ -4,7 +4,12 @@
 
 Welcome to the official repository of **Tasty Food Restaurant**, a delightful and modern web application built using React. This project aims to provide a user-friendly and interactive platform for showcasing the exquisite offerings of our restaurant. Whether you're craving a hearty meal or a light snack, Tasty Food Restaurant has something for every palate.
 
-![Tasty Food Restaurant]
+# Preview
+![React-App (1)](https://github.com/karan79k/Restaurant-UI/assets/123332277/ab7a7d95-17dc-4db3-934c-394bc6bc7802)
+
+
+
+
 
 ## Table of Contents
 
